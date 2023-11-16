@@ -17,19 +17,19 @@ export default function Home() {
             id: 1,
             img: grayEnergy,
             title: 'TEMİZ ENERJİ',
-            text: 'Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis et feugiat mi. Sed lacinia euismod convallis. Nam pharetra aliquam leo, Sed lacinia euismod convallis.'
+            text: 'Temiz enerji, güneş, rüzgar, hidroelektrik ve jeotermal gibi çevresel etkisi minimum düzeyde olan ve sonlu fosil yakıtlara olan bağımlılığı azaltan, çevrenin korunmasına, enerji güvenliğine ve ekonomik büyümeye katkıda bulunan yenilenebilir, sürdürülebilir güç kaynaklarını ifade eder.'
         },
         {
             id: 2,
             img: cup,
             title: 'PLASTİK TÜKETİMİ',
-            text: 'Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis et feugiat mi. Sed lacinia euismod convallis. Nam pharetra aliquam leo, Sed lacinia euismod convallis.'
+            text: 'Plastik kullanımının azaltılması veya ortadan kaldırılması, daha sürdürülebilir ve çevre dostu bir yaşam tarzına katkıda bulunur. Bu, yeniden kullanılabilir malzemeler, biyolojik olarak parçalanabilen plastikler gibi alternatiflerin benimsenmesini ve geri dönüşüme ve atık azaltımına öncelik veren döngüsel bir ekonominin desteklenmesini içerir.'
         },
         {
             id: 3,
             img: ecoFuel,
             title: 'FOSİL YAKITLAR',
-            text: 'Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis et feugiat mi. Sed lacinia euismod convallis. Nam pharetra aliquam leo, Sed lacinia euismod convallis.'
+            text: 'Çevreye, ekonomiye ve halk sağlığına olan zararlı etkileri nedeniyle fosil yakıtların kullanımından kaçınmak zorunludur. Fosil yakıtların yanması sera gazlarının açığa çıkmasına neden oluyor, iklim değişikliğini şiddetlendiriyor ve şiddetli hava olaylarına yol açıyor. Fosil yakıtların çıkarılması ve işlenmesi kaynakların tükenmesine, çevresel bozulmaya ve jeopolitik gerilimlere katkıda bulunur.'
         }
     ]
 
