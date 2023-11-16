@@ -23,13 +23,13 @@ export default function Home() {
             id: 2,
             img: cup,
             title: 'PLASTİK TÜKETİMİ',
-            text: 'Plastik kullanımının azaltılması veya ortadan kaldırılması, daha sürdürülebilir ve çevre dostu bir yaşam tarzına katkıda bulunur. Bu, yeniden kullanılabilir malzemeler, biyolojik olarak parçalanabilen plastikler gibi alternatiflerin benimsenmesini ve geri dönüşüme ve atık azaltımına öncelik veren döngüsel bir ekonominin desteklenmesini içerir.'
+            text: 'Plastik kullanımının azaltılması daha sürdürülebilir ve çevre dostu bir yaşam tarzına katkıda bulunur. Bu, yeniden kullanılabilir malzemeler, biyolojik olarak parçalanabilen plastikler gibi alternatiflerin benimsenmesini ve geri dönüşüme ve atık azaltımına öncelik veren döngüsel bir ekonominin desteklenmesini içerir.'
         },
         {
             id: 3,
             img: ecoFuel,
             title: 'FOSİL YAKITLAR',
-            text: 'Çevreye, ekonomiye ve halk sağlığına olan zararlı etkileri nedeniyle fosil yakıtların kullanımından kaçınmak zorunludur. Fosil yakıtların yanması sera gazlarının açığa çıkmasına neden oluyor, iklim değişikliğini şiddetlendiriyor ve şiddetli hava olaylarına yol açıyor. Fosil yakıtların çıkarılması ve işlenmesi kaynakların tükenmesine, çevresel bozulmaya ve jeopolitik gerilimlere katkıda bulunur.'
+            text: 'Çevreye, ekonomiye ve halk sağlığına olan zararlı etkileri nedeniyle fosil yakıtların kullanımından kaçınmak zorunludur. Fosil yakıtların yanması sera gazlarının açığa çıkmasına neden oluyor, iklim değişikliğini şiddetlendiriyor ve şiddetli hava olaylarına yol açıyor.'
         }
     ]
 
